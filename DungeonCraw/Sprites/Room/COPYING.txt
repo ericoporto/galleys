@@ -1,0 +1,9 @@
+All of the visual art and code for Heroine Dusk was created by Clint Bellanger. http://clintbellanger.net
+
+The visual art for Heroine Dusk is released under CC-BY-SA 3.0, with later versions permitted.
+
+See Heroine Dusk source release https://github.com/clintbellanger/heroine-dusk
+
+See First Person Dungeon Crawl Art Pack https://opengameart.org/content/first-person-dungeon-crawl-art-pack
+
+The Metal/Industrial tile art by Eric Duhamel is a derivative work of "First Person Dungeon Craw Art Pack" and is released under CC-BY-SA 3.0, with later versions permitted.
